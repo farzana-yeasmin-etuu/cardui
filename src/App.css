@@ -1,0 +1,28 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+  .menu{
+    font-size: 50px;
+    color: rgb(76, 26, 26);
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: -20px;
+    background-color: antiquewhite;
+  }
+
+.App{
+  margin-top: -30px;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 40px;
+  background-color: antiquewhite;
+ 
+}
